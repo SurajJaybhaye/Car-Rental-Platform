@@ -41,7 +41,7 @@ It includes an intuitive admin dashboard for managing vehicles, bookings, and us
 | **Database** | MongoDB (Mongoose ORM) |
 | **Hosting** | Vercel (Frontend) & Render (Backend) |
 | **Authentication** | JWT (JSON Web Tokens) |
-| **Storage** | Cloudinary |
+| **Storage** | ImageKit |
 | **State Management** | Context API / Redux Toolkit |
 
 ---
@@ -50,7 +50,7 @@ It includes an intuitive admin dashboard for managing vehicles, bookings, and us
 
 - 🧩 **Full-Stack Architecture** — Separate frontend and backend, designed for scalability and easy deployment.  
 - 🔐 **JWT Authentication** — Secure login, signup, and token-based session handling.  
-- 📦 **Cloudinary Integration** — Seamless car image upload and management.  
+- 📦 **ImageKit Integration** — Seamless car image upload and management.  
 - 🧾 **Admin Controls** — Role-based access for managing cars, bookings, and users.  
 - ⚡ **Optimized APIs** — RESTful endpoints with error handling, input validation, and fast response time.  
 - 📱 **Responsive UI** — Built with Tailwind CSS for smooth cross-device experience.  
